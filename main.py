@@ -10,7 +10,7 @@ def squreroot(num_val,approx_sqrt):
         return mean
     else:
         return squreroot(num_val, mean)
-# Press the green button in the gutter to run the script.
+
 
 if __name__ == '__main__':
     # Enter an integer as input
