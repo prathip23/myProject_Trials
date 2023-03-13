@@ -16,7 +16,7 @@ if __name__ == '__main__':
     # Enter an integer as input
     print("Question-1")
     print("--------------------")
-    Num = input('Enter the Number: ')
+    Num = input('Enter an integer value: ')
     approx_sqrt = math.isqrt(int(Num))
     #print(approx_sqrt)
     squreroot(int(Num), approx_sqrt)
